@@ -1,15 +1,15 @@
 # EA192M
 
-I've been testing the EA102M with Atari ST and Amiga.
+I've been testing the EA192M with PAL Atari ST and Amiga.
 
 It's perfect for the Atari ST, all screen modes work very well.
 
 For Amiga, there can be some vertical cropping when it uses a resolution over 240 pixels high (as seen with the vertically generous speedball but not kick off 2. So it probably works better for similar 320x200 conversions from the ST).
-Horizontal position and scale can be adjusted, but vertically only the position can be adjusted. 
+Horizontal position and scale can be adjusted, but vertically only the position can be adjusted, not the scale unfortunately.
 
 Internal stereo speakers work fine. 
 
-(The photos don't show how clear the images really are)
+(The photos don't show how clear the images really are as the phone camera adds some artefacts)
 
 See there's no V.Size to do any vertical stretching.
 [![IMG-20231216-104903.jpg](https://i.postimg.cc/J4YM2qPv/IMG-20231216-104903.jpg)](https://postimg.cc/tY6K1h0N)
