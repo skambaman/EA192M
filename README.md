@@ -1,6 +1,6 @@
-# EA192M
+# NEC EA192M
 
-I've been testing the EC EA192M with PAL Atari ST and Amiga.
+I've been testing the NEC EA192M with PAL Atari ST and Amiga.
 
 It's perfect for the Atari ST, all screen modes work very well.
 
