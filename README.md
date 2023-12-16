@@ -1,6 +1,6 @@
 # EA192M
 
-I've been testing the EA192M with PAL Atari ST and Amiga.
+I've been testing the EC EA192M with PAL Atari ST and Amiga.
 
 It's perfect for the Atari ST, all screen modes work very well.
 
@@ -11,7 +11,7 @@ Internal stereo speakers work fine.
 
 (The photos don't show how clear the images really are as the phone camera adds some artefacts)
 
-See there's no V.Size to do any vertical stretching.
+As shown, there's no V.SIZE to do any vertical stretching.
 [![IMG-20231216-104903.jpg](https://i.postimg.cc/J4YM2qPv/IMG-20231216-104903.jpg)](https://postimg.cc/tY6K1h0N)
 
 AtariST Low resolution
